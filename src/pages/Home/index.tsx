@@ -1,12 +1,12 @@
 import * as S from './styles'
-import TruckLeft from "../../assets/truckleft.png"
-import TruckRight from "../../assets/truckright.png"
+import Ford from "../../assets/ford-mustang-foxbody.png"
+import Renault from "../../assets/Renault-turbo-3.png"
 
 export function Home() {
   return (
     <S.Section>
-      <img src={TruckLeft} alt="Caminhão na esquerda" />
-      <img src={TruckRight} alt="Caminhão na direita" />
+      <img src={Ford} alt="Ford na esquerda" />
+      <img src={Renault} alt="Renault na direita" />
     </S.Section>
   )
 }

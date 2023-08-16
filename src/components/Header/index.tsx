@@ -1,5 +1,5 @@
 import * as S from "./styles"
-import Logo from "../../assets/truck.svg"
+import Logo from "../../assets/car.png"
 
 export function Header() {
   return (
@@ -13,7 +13,7 @@ export function Header() {
             <a href="/">Página Inicial</a>
           </li>
           <li>
-            <a href="/list">Lista</a>
+            <a href="/list">Carros em Estoque</a>
           </li>
         </ul>
       </S.NavBar>

@@ -9,7 +9,7 @@ export function List() {
         <ComponentCard
           key={item.id}
           modelo={item.modelo}
-          mensagem={item.mensagem}
+          pt={item.pt}
           mt={item.mt}
         />
       ))}
