@@ -3,13 +3,13 @@ export const dados = [
     id: 1,
     modelo: "BMW 850CSI",
     mt: "V12 5.6 - Traseira",
-    pt: "380 CV - 56,1 KGFM"
+    pt: "380 CV - 56 KGFM"
   },
   {
     id: 2,
     modelo: "Honda Civic",
     mt: "4I 1.6 - Dianteira",
-    pt: "106 CV - 14,2 KGFM"
+    pt: "106 CV - 14 KGFM"
   },
   {
     id: 3,

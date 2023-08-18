@@ -8,5 +8,11 @@ export const Section = styled.section`
     width: 50%;
   }
 `
+export const karro = styled.section`
+  display: flex;
+  max-width: 1090px;
+  margin: 0 auto;
+  justify-content: space-around;
+`
 
 
